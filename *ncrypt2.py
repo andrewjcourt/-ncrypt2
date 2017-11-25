@@ -1,9 +1,9 @@
-'''                 ________________________________
+'''				 ___________________________________
 
-                               *ncrypt2
-                            by Andrew Court
-                            
-                    ________________________________
+								*ncrypt2
+							by Andrew Court
+							
+				____________________________________
 
 '''
 
@@ -422,7 +422,6 @@ def de_code():  # decode text using 4-digit key
 
 
 def scramble_text():  # randomly scramble the text or unscramble it
-
 	global scramble_status, entry_length
 
 	if scramble_status == False and entry_length:
@@ -462,7 +461,6 @@ def scramble_text():  # randomly scramble the text or unscramble it
 
 
 def save_text():  # save text and key to file
-
 	global filepath
 
 	if key == '':
