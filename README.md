@@ -1,7 +1,7 @@
 # *ncrypt2
 Text encryption tool for kids' spy game - GUI
 
-A Python / Tkinter text encrypting program for Mac OSX. 
+A Python / Tkinter text-encrypting program for Mac OSX. 
 
 Requests a PIN on start-up (it's 2008). 
 
